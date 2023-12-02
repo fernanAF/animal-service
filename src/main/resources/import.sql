@@ -1,0 +1,5 @@
+INSERT INTO animal(nombre,tipo,nacimiento,genero,created_at) VALUES('Raul','Gato','Mexico','Macho',NOW())
+INSERT INTO animal(nombre,tipo,nacimiento,genero,created_at) VALUES('Firulais','Perro','Mexico','Macho',NOW())
+INSERT INTO animal(nombre,tipo,nacimiento,genero,created_at) VALUES('Mei Xiang','Panda','China','Hembra',NOW())
+INSERT INTO animal(nombre,tipo,nacimiento,genero,created_at) VALUES('Milo','Gato','Estados Unidos','Macho',NOW())
+INSERT INTO animal(nombre,tipo,nacimiento,genero,created_at) VALUES('Kitty','Gato','Mexico','Hembra',NOW()) 
